@@ -11,3 +11,6 @@ Based on an article by Vox: </br>
 [Rate of Deaths Due to Injury By Firearms - Each Year Has a Different Dataset](https://www.kff.org/other/state-indicator/firearms-death-rate-per-100000/?currentTimeframe=18&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
 
 [Gun Ownership Statistics per State](http://demographicdata.org/facts-and-figures/gun-ownership-statistics/#)
+
+https://docs.google.com/spreadsheets/d/1chqUZHuY6cXYrRYkuE0uwXisGaYvr7durZHJhpLGycs/edit#gid=0
+(world firearm datasets)
