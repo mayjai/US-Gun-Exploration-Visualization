@@ -12,5 +12,4 @@ Based on an article by Vox: </br>
 
 [Gun Ownership Statistics per State](http://demographicdata.org/facts-and-figures/gun-ownership-statistics/#)
 
-https://docs.google.com/spreadsheets/d/1chqUZHuY6cXYrRYkuE0uwXisGaYvr7durZHJhpLGycs/edit#gid=0
-(world firearm datasets)
+[World Firearms](https://docs.google.com/spreadsheets/d/1chqUZHuY6cXYrRYkuE0uwXisGaYvr7durZHJhpLGycs/edit#gid=0)
