@@ -4,12 +4,4 @@ Exploration of US gun data and custom visualizations
 Based on an article by Vox: </br>
 [America’s unique gun violence problem, explained in 17 maps and charts](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts)
 
-[Mass Shooting Tracking Data](https://www.massshootingtracker.org/data)
-
-[Firearm Deaths Per State Per Year - Suicide/Homicide/Accidental](https://webappa.cdc.gov/cgi-bin/broker.exe), https://www.cdc.gov/injury/wisqars/
-
-[Rate of Deaths Due to Injury By Firearms - Each Year Has a Different Dataset](https://www.kff.org/other/state-indicator/firearms-death-rate-per-100000/?currentTimeframe=18&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
-
-[Gun Ownership Statistics per State](http://demographicdata.org/facts-and-figures/gun-ownership-statistics/#)
-
-[World Firearms](https://docs.google.com/spreadsheets/d/1chqUZHuY6cXYrRYkuE0uwXisGaYvr7durZHJhpLGycs/edit#gid=0)
+Contributors: Kevin Chang, May Jai, Laura Klipp, Bryan Tamsir, Hale Tussing
