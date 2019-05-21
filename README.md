@@ -6,4 +6,3 @@ Based on an article by Vox: </br>
 
 Contributors: Kevin Chang, May Jai, Laura Klipp, Bryan Tamsir, Hale Tussing
 
-![k](https://public.tableau.com/profile/ttussing#!/vizhome/CamerasForecastFinal/CamerasForecastbyType)
