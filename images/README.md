@@ -6,7 +6,7 @@
 <li>Arguement 2:
   <ol>
 <li>State map per capita
-<li>Law and DpC reflection
+<li>fewerlaws_moredeaths_revised.png
 <li>lines
 <li>Suicide & Homicide
   </ol>
