@@ -1,16 +1,16 @@
 <ol>
-<li>Arguement 1:
+<li>Argument 1:
 <ol>
 <li>Homicides by Personally Owned Guns.png
   </ol>
-<li>Arguement 2:
+<li>Argument 2:
   <ol>
 <li>State map per capita
 <li>fewerlaws_moredeaths_revised.png
 <li>lines
 <li>Homicides and Suicides.png
   </ol>
-<li>Arguement 3:
+<li>Argument 3:
   <ol>
 <li>Ownership & mass shooting
 <li>Change in laws
