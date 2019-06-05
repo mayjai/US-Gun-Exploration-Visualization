@@ -1,7 +1,7 @@
 <ol>
 <li>Arguement 1:
 <ol>
-<li>US vs World Homicides
+<li>Homicides by Personally Owned Guns.png
   </ol>
 <li>Arguement 2:
   <ol>
