@@ -8,7 +8,7 @@
 <li>State map per capita
 <li>fewerlaws_moredeaths_revised.png
 <li>lines
-<li>Suicide & Homicide
+<li>Homicides and Suicides.png
   </ol>
 <li>Arguement 3:
   <ol>
