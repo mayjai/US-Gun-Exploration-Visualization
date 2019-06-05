@@ -1,12 +1,17 @@
 
 Arguement 1:
-US vs World Homicides
+<ol>
+<li>US vs World Homicides
 Arguement 2:
-State map per capita
-Law and DpC reflection
-lines
-Suicide & Homicide
+  <ol>
+<li>State map per capita
+<li>Law and DpC reflection
+<li>lines
+<li>Suicide & Homicide
+  </ol>
 Arguement 3:
-Ownership & mass shooting
-Change in laws
-Case Studies
+  <ol>
+<li>Ownership & mass shooting
+<li>Change in laws
+<li>Case Studies
+  </ol>
