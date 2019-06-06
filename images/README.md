@@ -13,7 +13,7 @@
 <li>Argument 3:
   <ol>
 <li>MS_numLaw_revised.png
-<li>Change in laws
+<li>MS_lawChange_revised.png
 <li>Case Studies
   </ol>
 </ol>
