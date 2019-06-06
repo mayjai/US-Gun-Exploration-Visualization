@@ -7,7 +7,7 @@
   <ol>
 <li>State map per capita
 <li>fewerlaws_moredeaths_revised.png
-<li>lines
+<li>DPC over time.png
 <li>Homicides and Suicides.png
   </ol>
 <li>Argument 3:
