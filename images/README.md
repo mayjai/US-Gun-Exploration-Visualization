@@ -14,6 +14,6 @@
   <ol>
 <li>MS_numLaw_revised.png
 <li>MS_lawChange_revised.png
-<li>Case Studies
+<li>MS_CaseStudy_revised.png
   </ol>
 </ol>
