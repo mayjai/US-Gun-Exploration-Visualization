@@ -12,7 +12,7 @@
   </ol>
 <li>Argument 3:
   <ol>
-<li>Ownership & mass shooting
+<li>MS_numLaw_revised.png
 <li>Change in laws
 <li>Case Studies
   </ol>
